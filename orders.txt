@@ -1,0 +1,50 @@
+Big Mac, Fries -> No
+McChicken -> Coffee
+Nuggets, Apple Pie -> Tea
+Quarter Pounder, Coke -> No
+Filet-O-Fish -> No
+Big Tasty, Fries -> Coffee
+McDouble, Sprite -> No
+McRib, Fries -> Tea
+Apple Pie -> No
+Cone, Coffee -> Coffee
+Fries, Shake -> No
+Coke -> No
+Sprite, Nuggets -> No
+Coffee -> Coffee
+Latte, Big Mac -> No
+Cappuccino, McChicken -> Coffee
+Hot Chocolate, McDouble -> No
+Happy Meal -> Tea
+Sausage McMuffin, Coffee -> Coffee
+Big Mac, McChicken -> No
+Happy Meal, Fries -> No
+Coke, McChicken -> Tea
+Big Mac, Nuggets -> Coffee
+Apple Pie, Fries -> No
+Latte, Sausage McMuffin -> Coffee
+Quarter Pounder, Sprite -> No
+McDouble, Fries -> Tea
+Filet-O-Fish, Latte -> No
+Cappuccino, Big Tasty -> Coffee
+Hot Chocolate, Nuggets -> Tea
+Fries, McChicken -> No
+Coke, Big Mac -> Coffee
+Sprite, Quarter Pounder -> Tea
+McDouble, Apple Pie -> No
+Latte, Filet-O-Fish -> Coffee
+Sausage McMuffin, Hot Chocolate -> Tea
+Happy Meal -> No
+Cappuccino, McChicken -> Coffee
+Big Mac, Fries, Coke -> Tea
+Nuggets, Sprite -> No
+Quarter Pounder, McDouble -> Coffee
+Filet-O-Fish, Big Tasty -> Tea
+Apple Pie, Latte -> No
+Fries, Hot Chocolate -> Coffee
+Sprite, Sausage McMuffin -> Tea
+Coke, Happy Meal -> No
+McChicken, Cappuccino -> Coffee
+Big Mac, Latte -> Tea
+Nuggets, Filet-O-Fish -> No
+Quarter Pounder, Apple Pie -> Coffee

@@ -1,0 +1,5 @@
+SpeechRecognition
+pyaudio
+tensorflow
+keras
+sklearn
